@@ -1,0 +1,18 @@
+1a
+
+red: 3
+green: 1
+blue: 1
+purple: 2
+yellow: 2
+<unknown> : 2
+
+1b
+
+green: 2
+yellow: 1
+red: 3
+blue: 1
+orange: 1
+brown: 1
+<unknown> : 1
